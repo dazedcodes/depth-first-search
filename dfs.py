@@ -1,3 +1,10 @@
+"""
+Depth-First Search Program
+
+Author: Maya Murphy
+Carleton College, 2022
+
+"""
 
 def main():
     import sys
